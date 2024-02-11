@@ -26,7 +26,7 @@ Mon slogan est "Je crée et anime votre identité" afin de mélanger l'aspect cr
 
 ## URL du site
 Rendu avec Hiro (utiliser firefox de préférence):
-[A utiliser de préférence avce firefox](https://chaari7.github.io/AFrame-Final/ ).
+[A utiliser de préférence avec firefox](https://chaari7.github.io/AFrame-Final/ ).
 
 Rendu avec Zappar (fonctionne moins bien):
 [Fonctionne moins bien](https://chaari7.github.io/Zappar-Card/ ).
